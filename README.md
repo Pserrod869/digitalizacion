@@ -14,6 +14,8 @@
 2. Elemento 2
 3. Elemento 3
 
-https://www.w3schools.com/python/exercise.asp?x=xrcise_variables3
+[w3schools.com] (https://www.w3schools.com/python/exercise.asp?x=xrcise_variables3)
 
-https://www.ieszaidinvergeles.org/
+[ieszaidinvergeles.org] (https://www.ieszaidinvergeles.org/)
+
+https://geoinnova.org/wp-content/uploads/2021/08/logos.png 
